@@ -27,4 +27,4 @@ npm install
 # Rode o projeto
 npm run dev
 
-💜 Desenvolvido por Jakeline Gomes com base no vídeo useState with array.
+💜 Desenvolvido por Jakeline Gomes com base no vídeo - YouTube [https://www.youtube.com/watch?v=RZ5wKYbOM_I&t=2s]
